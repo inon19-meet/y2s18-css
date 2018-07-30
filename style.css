@@ -1,4 +1,42 @@
-body {background-color:black;color: green; }
-h1 {color: green; font-size: 30px;}
-a {color: green;}
-#importent {background-color:yellow;}
+body {background-color:black;
+	color: green;
+ }
+
+
+h1 {
+	color: green; 
+	font-size: 30px;
+}
+
+
+a {
+	color: green;
+}
+
+#importent {background-color:#999900 ;
+ position: absolute;
+  top: 300px ;
+}
+
+.container {
+	position: relative; 
+	top: 0px;
+}
+
+.sidebar {
+	position: absolute;
+	top: 0px;
+	left: 1100px;
+	background-color:#003300 ;
+	color:#202020;
+	height: 100%;
+	width: 200px;
+}
+
+.main {position: absolute;
+ top: 0px left: 150px;
+}
+
+.title_banner {position: relative;
+ height: 60px : width: 100% ;
+}
